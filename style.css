@@ -6,7 +6,7 @@
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    font-size: 15px;
+    font-size: 15rem;
     transform: none;
 }
 
@@ -22,8 +22,8 @@ body{
    width: fit-content;
    height: fit-content;
    object-fit: contain;
-   padding: 16px 16px 40px;
-   border-radius: 20px;
+   padding: 16rem 16rem 40rem;
+   border-radius: 20rem;
    fill: #fff;
    background-color: #fff;
    align-items: center;
@@ -35,7 +35,7 @@ body{
     background-color: inherit;
     width: fit-content;
     height: fit-content;
-    padding: 0px 16px;
+    padding: 0rem 16rem;
     display: inline-block;
 }
 
@@ -43,7 +43,7 @@ body{
     color: hsl(216, 15%, 48%);
     background-color: inherit;
     text-align: center;
-    width: 256px;
+    width: 256rem;
     /* height: fit-content; */
     margin: 0;
 }
@@ -53,14 +53,14 @@ body{
     color: hsl(218, 44%, 22%);
     background-color: inherit;
     text-align: center;
-    margin-bottom: 16px;
-    width: 256px;
+    margin-bottom: 16rem;
+    width: 256rem;
     /* height: fit-content; */
 }
 
-#qr{
-    width: 288px;
-    height: 288px;
-    border-radius: 10px;
-    margin-bottom: 24px;
+.qr-div img{
+    width: 288rem;
+    height: 288rem;
+    border-radius: 10rem;
+    margin-bottom: 24rem;
 }
